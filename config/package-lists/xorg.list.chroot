@@ -1,0 +1,1 @@
+tasksel desktop-base sudo lightdm mate-desktop-environment-core libreoffice gdebi pidgin terminator xrdp medit gimp openssh-server ssh remmina amarok iceweasel
