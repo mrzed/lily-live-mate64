@@ -14,7 +14,7 @@ lb config noauto \
       --iso-application lily-amd64-mate-v0.9a1 \
       --iso-preparer zed \
       --iso-publisher lilypadmudlib.com \
-      --iso-volume lily-mate64-v0.9v1 \
+      --iso-volume lily-mate64-v0.9a1 \
       --debian-installer-distribution daily \
       --debian-installer live \
 	"${@}"
